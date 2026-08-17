@@ -2,8 +2,8 @@ name: Actualizar frases del día
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # Todos los días a las 07:00 UTC
-  workflow_dispatch:      # Para probarlo manualmente cuando quieras
+    - cron: '0 7 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Generar 30 frases al azar
         run: |
@@ -21,28 +24,26 @@ jobs:
           import random
           from datetime import datetime
 
-          # Leer las 100 frases
           with open("frases.txt", "r", encoding="utf-8") as f:
               frases = [line.strip() for line in f if line.strip()]
 
-          # Elegir 30 al azar
           seleccion = random.sample(frases, 30)
-
           fecha = datetime.utcnow().strftime("%Y-%m-%d")
 
-          # Generar el bloque markdown
           bloque = f"### {fecha}\n\n"
           for i, frase in enumerate(seleccion, 1):
               bloque += f"{i}. {frase}\n"
           bloque += "\n"
 
-          # Leer README actual
           with open("README.md", "r", encoding="utf-8") as f:
               contenido = f.read()
 
-          # Reemplazar la sección diaria
           inicio = "<!-- DAILY_START -->"
           fin = "<!-- DAILY_END -->"
+
+          if inicio not in contenido or fin not in contenido:
+              raise Exception("No se encontraron los marcadores DAILY_START / DAILY_END en el README")
+
           nuevo_contenido = contenido.split(inicio)[0] + inicio + "\n" + bloque + fin + contenido.split(fin)[1]
 
           with open("README.md", "w", encoding="utf-8") as f:
@@ -52,7 +53,14 @@ jobs:
           EOF
 
       - name: Commit y push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "docs: actualizar 30 frases del día"
-          file_pattern: README.md
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No hay cambios para commitear"
+          else
+            git commit -m "docs: actualizar 30 frases del día"
+            git pull --rebase origin main
+            git push
+          fi
