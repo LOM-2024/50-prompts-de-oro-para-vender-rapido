@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-08-23
+### 2026-08-24
 
-1. Lanzar imperfecto es mejor que no lanzar nunca.
-2. Un prompt bien hecho puede valer más que un curso completo.
-3. Los prompts de oro eliminan la parálisis por análisis.
-4. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
-5. Deja de consumir contenido y empieza a crear productos que se venden solos.
-6. El copy que convierte se puede generar sistemáticamente.
-7. Los prompts de oro eliminan el bloqueo creativo al instante.
-8. Optimizar y escalar es el premio por haber lanzado.
-9. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
-10. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
-11. Cada prompt de oro te acerca más a tu primera (o próxima) venta.
-12. El copy que convierte se construye con los prompts correctos.
-13. Vender productos digitales rápido es cuestión de método, no de suerte.
-14. Escalar un producto digital empieza por optimizar lo que ya funciona.
-15. Validar ideas antes de construir es la forma más inteligente de trabajar.
-16. Crear productos digitales rápidos es una habilidad que se puede sistematizar.
-17. Una checklist de 24 horas te obliga a enfocarte.
-18. Los prompts de oro convierten la intención en resultados.
-19. Una buena validación de idea evita meses de trabajo inútil.
-20. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
-21. El marketing orgánico funciona mejor cuando es intencional.
-22. Escalar empieza por dominar el proceso de creación y venta rápida.
-23. El marketing orgánico funciona mejor cuando es sistemático.
-24. Vender más rápido empieza por decidir lanzar hoy.
-25. Crear productos digitales rápidos es el juego del 2026.
-26. Los mejores vendedores digitales no improvisan, usan prompts probados.
-27. Vender más rápido empieza por crear más rápido.
-28. El verdadero cuello de botella ya no es crear, es saber qué pedir.
-29. Una buena página de ventas vende mientras tú duermes.
-30. Lanza hoy. Optimiza mañana. Escala después.
+1. Deja de esperar el momento perfecto. El momento es ahora.
+2. El copy persuasivo es una habilidad que se puede potenciar con IA.
+3. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
+4. El mercado premia a quien llega primero con una solución decente.
+5. Un checklist de 24 horas elimina las excusas.
+6. La ventaja competitiva está en la velocidad de ejecución.
+7. Lanzar imperfecto es mejor que no lanzar nunca.
+8. Validar una idea digital ya no toma meses: con los prompts adecuados toma minutos.
+9. Cada prompt de oro te acerca más a tu primera (o próxima) venta.
+10. La velocidad de lanzamiento es una de las mayores ventajas competitivas.
+11. Lanzar en 24 horas te da feedback real del mercado.
+12. Escalar empieza por tener un producto que ya genera las primeras ventas.
+13. Vender más rápido empieza por decidir lanzar hoy.
+14. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
+15. Una checklist de 24 horas te obliga a enfocarte.
+16. Una buena página de ventas vende mientras tú duermes.
+17. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
+18. Los mejores vendedores digitales no improvisan, usan prompts probados.
+19. Los prompts de oro eliminan el bloqueo creativo al instante.
+20. El marketing orgánico se multiplica cuando tienes claridad.
+21. Deja de consumir contenido y empieza a crear productos que se venden solos.
+22. La IA potencia a quien sabe usarla con prompts precisos.
+23. Optimizar y escalar es el premio por haber lanzado.
+24. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
+25. Cada día que no lanzas es un día que alguien más puede adelantarte.
+26. El mercado no espera a que termines de perfeccionar.
+27. Una idea + 50 prompts de oro = producto listo para el mercado.
+28. Vender productos digitales rápido es cuestión de método, no de suerte.
+29. Crear, empaquetar y vender en el mismo día es posible con el sistema correcto.
+30. Cada prompt de oro te ahorra horas de prueba y error.
 
 <!-- DAILY_END -->
 
