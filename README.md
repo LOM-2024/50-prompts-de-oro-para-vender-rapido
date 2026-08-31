@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-08-30
+### 2026-08-31
 
-1. Los prompts de oro te dan claridad cuando otros solo tienen confusión.
-2. Una buena validación de idea evita meses de trabajo inútil.
-3. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
-4. Una checklist de 24 horas te obliga a enfocarte.
-5. El marketing orgánico se multiplica cuando tienes claridad.
-6. La ventaja competitiva está en la velocidad de ejecución.
-7. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
-8. Vender más rápido empieza por crear más rápido.
-9. La IA potencia a quien sabe usarla con prompts precisos.
-10. Deja de consumir contenido y empieza a crear productos que se venden solos.
-11. Validar ideas rápido te ahorra tiempo, dinero y frustración.
-12. Crear productos digitales rápidos es el nuevo superpoder del 2026.
-13. Lanzar imperfecto es mejor que no lanzar nunca.
-14. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
-15. Vender productos digitales rápido es posible cuando tienes el mapa.
-16. Lanzar en 24 horas te da feedback real del mercado.
-17. Cada día que no lanzas es un día que alguien más puede adelantarte.
-18. La IA + prompts de oro = ventaja competitiva real.
-19. Los mejores vendedores digitales no improvisan, usan prompts probados.
-20. Un checklist de 24 horas elimina las excusas.
-21. Los mejores resultados llegan cuando combinas velocidad con método.
-22. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
-23. Cada prompt de oro te acerca más a tu primera (o próxima) venta.
-24. El mercado no espera a que termines de perfeccionar.
-25. Los 50 prompts de oro son el atajo que muchos están buscando.
-26. El copy que genera deseo se puede crear sistemáticamente.
-27. La IA no vende por ti, pero los prompts correctos sí te ayudan a vender.
-28. Cada día sin lanzar es una oportunidad perdida.
-29. Vender productos digitales se vuelve predecible con el sistema correcto.
-30. El copy persuasivo es el puente entre el producto y la venta.
+1. Crear el producto completo ya no tiene que tomar semanas.
+2. La IA potencia a quien sabe usarla con prompts precisos.
+3. Crear productos digitales rápidos es una habilidad que se puede sistematizar.
+4. Una buena página de ventas vende mientras tú duermes.
+5. Los prompts de oro te dan claridad cuando otros solo tienen confusión.
+6. Escalar empieza por dominar el proceso de creación y venta rápida.
+7. Los mejores productos digitales nacen de prompts bien pensados.
+8. Cada día sin lanzar es una oportunidad perdida.
+9. Vender más rápido empieza por decidir lanzar hoy.
+10. Cada prompt de oro te ahorra horas de prueba y error.
+11. Optimizar después de tener ventas es la estrategia ganadora.
+12. Lanzar imperfecto te da la información que necesitas para mejorar.
+13. Una página de ventas clara vende más que un producto perfecto pero invisible.
+14. Vender productos digitales se vuelve predecible con el sistema correcto.
+15. El verdadero poder de la IA está en los prompts diseñados para vender.
+16. Vender más rápido empieza por crear más rápido.
+17. Un prompt bien diseñado vale más que 10 horas de escritura manual.
+18. Validar ideas rápido te mantiene en movimiento.
+19. Cada día que no lanzas es un día que alguien más puede adelantarte.
+20. Lanzar en 24 horas te da feedback real del mercado.
+21. Vender productos digitales rápido es posible cuando tienes el mapa.
+22. Optimizar y escalar es el premio por haber lanzado.
+23. Una idea validada es más valiosa que 10 ideas sin probar.
+24. El marketing orgánico se vuelve predecible con el sistema correcto.
+25. Lanza hoy. Optimiza mañana. Escala después.
+26. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
+27. Escalar un producto digital empieza por optimizar lo que ya funciona.
+28. Una buena validación de idea evita meses de trabajo inútil.
+29. Lanzar imperfecto es mejor que no lanzar nunca.
+30. Un sistema de prompts te da consistencia cuando la motivación falla.
 
 <!-- DAILY_END -->
 
