@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-09-03
+### 2026-09-04
 
-1. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
-2. Deja de esperar el momento perfecto. El momento es ahora.
-3. Optimizar después de lanzar es más inteligente que perfeccionar eternamente.
-4. La velocidad de lanzamiento es una de las mayores ventajas competitivas.
-5. Los que usan sistemas de prompts ganan tiempo y dinero.
-6. Una idea validada + prompts de oro = producto listo para generar ingresos.
-7. Los prompts de oro convierten la intención en resultados.
-8. El verdadero poder de la IA está en los prompts diseñados para vender.
-9. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
-10. El copy que genera deseo se puede crear sistemáticamente.
-11. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
-12. Vender más rápido empieza por decidir lanzar hoy.
-13. Escalar empieza por dominar el proceso de creación y venta rápida.
-14. El copy que convierte se construye con los prompts correctos.
-15. Escalar un producto digital es más fácil cuando ya tienes tracción.
+1. Escalar un producto digital empieza por optimizar lo que ya funciona.
+2. Lanzar en 24 horas te da feedback real del mercado.
+3. Vender productos digitales rápido es cuestión de método, no de suerte.
+4. Vender productos digitales rápido es posible cuando tienes el mapa.
+5. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
+6. El copy que convierte se construye con los prompts correctos.
+7. El marketing orgánico deja de ser lento cuando tienes los prompts correctos.
+8. El marketing orgánico se multiplica cuando tienes claridad.
+9. Validar ideas rápido te ahorra tiempo, dinero y frustración.
+10. Un prompt bien hecho puede valer más que un curso completo.
+11. Crear y vender productos digitales rápido es una habilidad entrenable.
+12. Crear y vender en el mismo ciclo es la nueva normalidad.
+13. Lanza hoy. Optimiza mañana. Escala después.
+14. Crear productos digitales rápidos es el nuevo superpoder del 2026.
+15. Los que lanzan rápido aprenden más rápido y ganan más rápido.
 16. La IA no vende por ti, pero los prompts correctos sí te ayudan a vender.
-17. El marketing orgánico deja de ser lento cuando tienes los prompts correctos.
+17. Optimizar después de tener ventas es la estrategia ganadora.
 18. El marketing orgánico funciona mejor cuando es intencional.
-19. La IA potencia a quien sabe usarla con prompts precisos.
-20. Los prompts de oro te dan claridad cuando otros solo tienen confusión.
-21. Crear productos digitales rápidos es una habilidad que se puede sistematizar.
-22. Crear el producto completo ya no tiene que tomar semanas.
-23. La diferencia entre quien lanza y quien solo piensa está en los prompts que usa.
-24. Un prompt bien hecho puede valer más que un curso completo.
-25. Una idea validada es más valiosa que 10 ideas sin probar.
-26. Optimizar y escalar es el resultado natural de lanzar y aprender.
-27. Los mejores productos digitales nacen de prompts bien pensados.
-28. El verdadero cuello de botella ya no es crear, es saber qué pedir.
-29. Crear productos digitales rápidos es el juego del 2026.
-30. Los que lanzan rápido aprenden más rápido y ganan más rápido.
+19. Una checklist de 24 horas te obliga a enfocarte.
+20. La IA potencia a quien sabe usarla con prompts precisos.
+21. Un checklist de 24 horas elimina las excusas.
+22. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
+23. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
+24. Los prompts correctos convierten ideas en productos vendibles en horas, no en semanas.
+25. La velocidad sin dirección es caos; los prompts dan la dirección.
+26. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
+27. Un sistema de prompts te da consistencia cuando la motivación falla.
+28. Lanzar imperfecto te da la información que necesitas para mejorar.
+29. Cada día sin lanzar es una oportunidad perdida.
+30. Validar ideas antes de construir es la forma más inteligente de trabajar.
 
 <!-- DAILY_END -->
 
