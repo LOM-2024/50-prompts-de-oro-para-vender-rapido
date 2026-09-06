@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-09-05
+### 2026-09-06
 
-1. Un sistema de prompts te da consistencia cuando la motivación falla.
-2. Validar ideas antes de construir es la forma más inteligente de trabajar.
-3. Los prompts de oro eliminan el bloqueo creativo al instante.
-4. Validar ideas rápido te ahorra tiempo, dinero y frustración.
-5. El verdadero poder de la IA está en los prompts diseñados para vender.
-6. El marketing orgánico se multiplica cuando tienes claridad.
-7. Crear y vender productos digitales rápido es una habilidad entrenable.
-8. Los que usan sistemas de prompts ganan tiempo y dinero.
-9. Los mejores productos digitales nacen de prompts bien pensados.
-10. Crear y vender en el mismo ciclo es la nueva normalidad.
-11. Crear productos digitales ya no requiere ser programador ni diseñador.
-12. Los mejores vendedores digitales no improvisan, usan prompts probados.
-13. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
-14. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
-15. Una checklist de 24 horas te obliga a enfocarte.
-16. Los prompts correctos convierten ideas en productos vendibles en horas, no en semanas.
-17. El marketing orgánico deja de ser un misterio con los prompts correctos.
-18. Una idea validada + prompts de oro = producto listo para generar ingresos.
-19. Crear productos digitales rápidos es el nuevo superpoder del 2026.
-20. Optimizar y escalar es el premio por haber lanzado.
-21. Crear productos digitales rápidos es una habilidad que se puede sistematizar.
-22. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
-23. Validar ideas rápido te mantiene en movimiento.
-24. El copy que convierte se construye con los prompts correctos.
-25. Una idea + 50 prompts de oro = producto listo para el mercado.
-26. El copy persuasivo es el puente entre el producto y la venta.
-27. Lanzar en 24 horas te da feedback real del mercado.
-28. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
-29. La velocidad sin dirección es caos; los prompts dan la dirección.
-30. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
+1. Los prompts de oro eliminan la parálisis por análisis.
+2. El copy que convierte se construye con los prompts correctos.
+3. Los que usan sistemas de prompts ganan tiempo y dinero.
+4. Deja de consumir y empieza a producir productos que se venden.
+5. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
+6. Los prompts de oro eliminan el bloqueo creativo al instante.
+7. Los mejores vendedores digitales no improvisan, usan prompts probados.
+8. Lanzar en 24 horas te da feedback real del mercado.
+9. Los prompts de oro son el atajo legítimo hacia las ventas rápidas.
+10. Los prompts de oro te dan claridad cuando otros solo tienen confusión.
+11. Escalar empieza por tener un producto que ya genera las primeras ventas.
+12. Validar ideas rápido te ahorra tiempo, dinero y frustración.
+13. El copy que convierte se puede generar sistemáticamente.
+14. Crear y vender en el mismo ciclo es la nueva normalidad.
+15. Vender productos digitales se vuelve predecible con el sistema correcto.
+16. Una checklist de 24 horas te obliga a enfocarte.
+17. El marketing orgánico se multiplica cuando tienes claridad.
+18. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
+19. Lanzar imperfecto es mejor que no lanzar nunca.
+20. Crear productos digitales rápidos es el juego del 2026.
+21. El verdadero poder de la IA está en los prompts diseñados para vender.
+22. Validar ideas rápido te mantiene en movimiento.
+23. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
+24. El mercado premia a quien llega primero con una solución decente.
+25. Una buena página de ventas vende mientras tú duermes.
+26. Escalar un producto digital empieza por optimizar lo que ya funciona.
+27. Los que usan prompts de oro avanzan mientras otros siguen investigando.
+28. Una idea validada es más valiosa que 10 ideas sin probar.
+29. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
+30. Investigar el mercado ya no es aburrido ni lento con los prompts correctos.
 
 <!-- DAILY_END -->
 
