@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-09-10
+### 2026-09-11
 
-1. El verdadero cuello de botella ya no es crear, es saber qué pedir.
-2. Un prompt bien diseñado vale más que 10 horas de escritura manual.
-3. Escalar empieza por dominar el proceso de creación y venta rápida.
-4. Vender productos digitales se vuelve predecible con el sistema correcto.
-5. El verdadero poder de la IA está en los prompts diseñados para vender.
-6. El copy que genera deseo se puede crear sistemáticamente.
-7. Crear y vender en el mismo ciclo es la nueva normalidad.
-8. Los prompts de oro eliminan la parálisis por análisis.
-9. Optimizar después de tener ventas es la estrategia ganadora.
-10. Crear productos digitales rápidos es una habilidad que se puede sistematizar.
-11. Deja de esperar el momento perfecto. El momento es ahora.
-12. La diferencia entre quien lanza y quien solo piensa está en los prompts que usa.
-13. Una página de ventas escrita con prompts de oro convierte mejor.
-14. Crear productos digitales rápidos es el nuevo superpoder del 2026.
-15. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
-16. Optimizar después de lanzar es más inteligente que perfeccionar eternamente.
-17. Cada prompt de oro te acerca más a tu primera (o próxima) venta.
-18. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
-19. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
-20. Los prompts de oro eliminan el bloqueo creativo al instante.
-21. Crear, empaquetar y vender en el mismo día es posible con el sistema correcto.
-22. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
-23. Una buena validación de idea evita meses de trabajo inútil.
-24. Lanzar imperfecto te da la información que necesitas para mejorar.
-25. Una idea validada es más valiosa que 10 ideas sin probar.
-26. Crear productos digitales ya no requiere ser programador ni diseñador.
-27. Vender más rápido empieza por crear más rápido.
-28. Los que lanzan rápido aprenden más rápido y ganan más rápido.
-29. El copy persuasivo es el puente entre el producto y la venta.
-30. El marketing orgánico deja de ser un misterio con los prompts correctos.
+1. Cada día sin lanzar es una oportunidad perdida.
+2. Validar ideas antes de construir es la forma más inteligente de trabajar.
+3. Una buena página de ventas vende mientras tú duermes.
+4. Los mejores productos digitales nacen de prompts bien pensados.
+5. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
+6. Lanzar imperfecto es mejor que no lanzar nunca.
+7. El marketing orgánico deja de ser un misterio con los prompts correctos.
+8. El copy que convierte se construye con los prompts correctos.
+9. Lanzar en 24 horas te da feedback real del mercado.
+10. Una buena validación de idea evita meses de trabajo inútil.
+11. El mercado premia a quien llega primero con una solución decente.
+12. El marketing orgánico se multiplica cuando tienes claridad.
+13. Una checklist de 24 horas te obliga a enfocarte.
+14. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
+15. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
+16. Los que actúan con prompts de oro avanzan más rápido.
+17. El copy persuasivo es una habilidad que se puede potenciar con IA.
+18. Los prompts de oro convierten la intención en resultados.
+19. Una idea validada es más valiosa que 10 ideas sin probar.
+20. Un sistema de prompts te da consistencia cuando la motivación falla.
+21. Un prompt bien diseñado vale más que 10 horas de escritura manual.
+22. La ventaja competitiva está en la velocidad de ejecución.
+23. Vender productos digitales rápido es cuestión de método, no de suerte.
+24. Optimizar y escalar es el resultado natural de lanzar y aprender.
+25. Un prompt bien hecho puede valer más que un curso completo.
+26. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
+27. El marketing orgánico funciona mejor cuando es sistemático.
+28. Una página de ventas clara vende más que un producto perfecto pero invisible.
+29. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
+30. Una página de ventas escrita con prompts de oro convierte mejor.
 
 <!-- DAILY_END -->
 
