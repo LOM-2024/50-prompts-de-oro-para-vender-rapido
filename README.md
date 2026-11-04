@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-03
+### 2026-11-04
 
-1. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
-2. Lanza hoy. Optimiza mañana. Escala después.
-3. Los mejores productos digitales nacen de prompts bien pensados.
-4. Un prompt bien hecho puede valer más que un curso completo.
-5. Los prompts de oro convierten la intención en resultados.
-6. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
-7. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
-8. Los mejores vendedores digitales no improvisan, usan prompts probados.
-9. El copy persuasivo es el puente entre el producto y la venta.
-10. Los que usan sistemas de prompts ganan tiempo y dinero.
-11. Escalar empieza por tener un producto que ya genera las primeras ventas.
-12. La diferencia entre quien lanza y quien solo piensa está en los prompts que usa.
-13. El copy que convierte se construye con los prompts correctos.
-14. Los prompts de oro eliminan la parálisis por análisis.
-15. Cada prompt de oro te acerca más a tu primera (o próxima) venta.
-16. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
-17. Los prompts de oro convierten la teoría en acción inmediata.
-18. El verdadero poder de la IA está en los prompts diseñados para vender.
-19. Optimizar después de tener ventas es la estrategia ganadora.
-20. Validar ideas rápido te ahorra tiempo, dinero y frustración.
-21. Escalar empieza por dominar el proceso de creación y venta rápida.
-22. Vender productos digitales rápido es posible cuando tienes el mapa.
-23. Crear productos digitales rápidos es el nuevo superpoder del 2026.
-24. Lanzar en 24 horas te da feedback real del mercado.
-25. Investigar el mercado ya no es aburrido ni lento con los prompts correctos.
-26. El copy persuasivo ya no depende de inspiración, depende de buenos prompts.
-27. Una buena página de ventas vende mientras tú duermes.
-28. Crear y vender productos digitales rápido es una habilidad entrenable.
-29. Crear, empaquetar y vender en el mismo día es posible con el sistema correcto.
-30. Crear el producto completo ya no tiene que tomar semanas.
+1. El copy persuasivo es el puente entre el producto y la venta.
+2. Lanzar imperfecto te da la información que necesitas para mejorar.
+3. El marketing orgánico se multiplica cuando tienes claridad.
+4. Validar ideas antes de construir es la forma más inteligente de trabajar.
+5. Optimizar después de tener ventas es la estrategia ganadora.
+6. Lanza hoy. Optimiza mañana. Escala después.
+7. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
+8. Escalar un producto digital es más fácil cuando ya tienes tracción.
+9. Una buena validación de idea evita meses de trabajo inútil.
+10. Una idea validada es más valiosa que 10 ideas sin probar.
+11. Los prompts de oro eliminan la parálisis por análisis.
+12. Crear productos digitales rápidos es el nuevo superpoder del 2026.
+13. Los que usan prompts de oro avanzan mientras otros siguen investigando.
+14. Crear y vender productos digitales rápido es una habilidad entrenable.
+15. Vender productos digitales rápido es cuestión de método, no de suerte.
+16. Crear el producto completo ya no tiene que tomar semanas.
+17. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
+18. La IA no vende por ti, pero los prompts correctos sí te ayudan a vender.
+19. Un prompt bien hecho puede valer más que un curso completo.
+20. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
+21. Un prompt bien diseñado vale más que 10 horas de escritura manual.
+22. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
+23. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
+24. El mercado no espera a que termines de perfeccionar.
+25. Cada prompt de oro te ahorra horas de prueba y error.
+26. Lanzar en 24 horas te da feedback real del mercado.
+27. Una checklist de 24 horas te obliga a enfocarte.
+28. Vender productos digitales rápido es posible cuando tienes el mapa.
+29. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
+30. El copy que genera deseo se puede crear sistemáticamente.
 
 <!-- DAILY_END -->
 
