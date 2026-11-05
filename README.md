@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-04
+### 2026-11-05
 
-1. El copy persuasivo es el puente entre el producto y la venta.
-2. Lanzar imperfecto te da la información que necesitas para mejorar.
-3. El marketing orgánico se multiplica cuando tienes claridad.
-4. Validar ideas antes de construir es la forma más inteligente de trabajar.
-5. Optimizar después de tener ventas es la estrategia ganadora.
-6. Lanza hoy. Optimiza mañana. Escala después.
-7. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
-8. Escalar un producto digital es más fácil cuando ya tienes tracción.
-9. Una buena validación de idea evita meses de trabajo inútil.
-10. Una idea validada es más valiosa que 10 ideas sin probar.
-11. Los prompts de oro eliminan la parálisis por análisis.
-12. Crear productos digitales rápidos es el nuevo superpoder del 2026.
-13. Los que usan prompts de oro avanzan mientras otros siguen investigando.
-14. Crear y vender productos digitales rápido es una habilidad entrenable.
-15. Vender productos digitales rápido es cuestión de método, no de suerte.
-16. Crear el producto completo ya no tiene que tomar semanas.
-17. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
-18. La IA no vende por ti, pero los prompts correctos sí te ayudan a vender.
-19. Un prompt bien hecho puede valer más que un curso completo.
-20. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
-21. Un prompt bien diseñado vale más que 10 horas de escritura manual.
-22. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
-23. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
-24. El mercado no espera a que termines de perfeccionar.
-25. Cada prompt de oro te ahorra horas de prueba y error.
-26. Lanzar en 24 horas te da feedback real del mercado.
-27. Una checklist de 24 horas te obliga a enfocarte.
-28. Vender productos digitales rápido es posible cuando tienes el mapa.
-29. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
-30. El copy que genera deseo se puede crear sistemáticamente.
+1. Los prompts de oro son el atajo legítimo hacia las ventas rápidas.
+2. Los que actúan con prompts de oro avanzan más rápido.
+3. Validar ideas rápido te ahorra tiempo, dinero y frustración.
+4. Escalar empieza por tener un producto que ya genera las primeras ventas.
+5. El copy que convierte se construye con los prompts correctos.
+6. La IA potencia a quien sabe usarla con prompts precisos.
+7. El copy persuasivo es el puente entre el producto y la venta.
+8. Crear el producto completo ya no tiene que tomar semanas.
+9. Crear productos digitales rápidos es el juego del 2026.
+10. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
+11. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
+12. El marketing orgánico funciona mejor cuando es intencional.
+13. Crear productos digitales ya no es exclusivo de los “expertos”.
+14. Crear productos digitales rápidos es una habilidad que se puede sistematizar.
+15. El verdadero poder de la IA está en los prompts diseñados para vender.
+16. El verdadero cuello de botella ya no es crear, es saber qué pedir.
+17. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
+18. Optimizar y escalar es el resultado natural de lanzar y aprender.
+19. Una página de ventas clara vende más que un producto perfecto pero invisible.
+20. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
+21. Lanzar en 24 horas te da feedback real del mercado.
+22. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
+23. La IA + prompts de oro = ventaja competitiva real.
+24. Deja de consumir contenido y empieza a crear productos que se venden solos.
+25. El marketing orgánico deja de ser un misterio con los prompts correctos.
+26. Validar ideas antes de construir es la forma más inteligente de trabajar.
+27. Un sistema de prompts te da consistencia cuando la motivación falla.
+28. El mercado premia a quien llega primero con una solución decente.
+29. Validar ideas rápido te mantiene en movimiento.
+30. Vender más rápido empieza por crear más rápido.
 
 <!-- DAILY_END -->
 
