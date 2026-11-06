@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-05
+### 2026-11-06
 
-1. Los prompts de oro son el atajo legítimo hacia las ventas rápidas.
-2. Los que actúan con prompts de oro avanzan más rápido.
-3. Validar ideas rápido te ahorra tiempo, dinero y frustración.
-4. Escalar empieza por tener un producto que ya genera las primeras ventas.
-5. El copy que convierte se construye con los prompts correctos.
-6. La IA potencia a quien sabe usarla con prompts precisos.
-7. El copy persuasivo es el puente entre el producto y la venta.
-8. Crear el producto completo ya no tiene que tomar semanas.
-9. Crear productos digitales rápidos es el juego del 2026.
-10. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
-11. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
-12. El marketing orgánico funciona mejor cuando es intencional.
-13. Crear productos digitales ya no es exclusivo de los “expertos”.
-14. Crear productos digitales rápidos es una habilidad que se puede sistematizar.
-15. El verdadero poder de la IA está en los prompts diseñados para vender.
-16. El verdadero cuello de botella ya no es crear, es saber qué pedir.
-17. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
-18. Optimizar y escalar es el resultado natural de lanzar y aprender.
-19. Una página de ventas clara vende más que un producto perfecto pero invisible.
-20. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
-21. Lanzar en 24 horas te da feedback real del mercado.
-22. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
-23. La IA + prompts de oro = ventaja competitiva real.
-24. Deja de consumir contenido y empieza a crear productos que se venden solos.
-25. El marketing orgánico deja de ser un misterio con los prompts correctos.
-26. Validar ideas antes de construir es la forma más inteligente de trabajar.
-27. Un sistema de prompts te da consistencia cuando la motivación falla.
-28. El mercado premia a quien llega primero con una solución decente.
-29. Validar ideas rápido te mantiene en movimiento.
-30. Vender más rápido empieza por crear más rápido.
+1. Crear productos digitales ya no requiere ser programador ni diseñador.
+2. El marketing orgánico deja de ser un misterio con los prompts correctos.
+3. Crear productos digitales ya no es exclusivo de los “expertos”.
+4. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
+5. Los prompts de oro te dan claridad cuando otros solo tienen confusión.
+6. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
+7. El marketing orgánico deja de ser lento cuando tienes los prompts correctos.
+8. Los prompts de oro son el atajo legítimo hacia las ventas rápidas.
+9. El marketing orgánico funciona mejor cuando es intencional.
+10. El marketing orgánico funciona mejor cuando es sistemático.
+11. Crear productos digitales rápidos es el juego del 2026.
+12. Cada día que no lanzas es un día que alguien más puede adelantarte.
+13. Los prompts de oro convierten la intención en resultados.
+14. Crear el producto completo ya no tiene que tomar semanas.
+15. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
+16. Crear productos digitales rápidos es el nuevo superpoder del 2026.
+17. Escalar empieza por tener un producto que ya genera las primeras ventas.
+18. Una página de ventas escrita con prompts de oro convierte mejor.
+19. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
+20. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
+21. Cada prompt de oro te acerca más a tu primera (o próxima) venta.
+22. Un prompt bien hecho puede valer más que un curso completo.
+23. La IA no vende por ti, pero los prompts correctos sí te ayudan a vender.
+24. El verdadero poder de la IA está en los prompts diseñados para vender.
+25. Escalar un producto digital es más fácil cuando ya tienes tracción.
+26. Una página de ventas clara vende más que un producto perfecto pero invisible.
+27. Escalar empieza por dominar el proceso de creación y venta rápida.
+28. Una buena página de ventas vende mientras tú duermes.
+29. Vender más rápido empieza por crear más rápido.
+30. Optimizar después de lanzar es más inteligente que perfeccionar eternamente.
 
 <!-- DAILY_END -->
 
