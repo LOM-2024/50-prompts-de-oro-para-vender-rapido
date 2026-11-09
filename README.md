@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-08
+### 2026-11-09
 
-1. Optimizar y escalar es el premio por haber lanzado.
-2. Escalar empieza por tener un producto que ya genera las primeras ventas.
-3. Deja de consumir y empieza a producir productos que se venden.
-4. Cada prompt de oro te acerca más a tu primera (o próxima) venta.
-5. La velocidad sin dirección es caos; los prompts dan la dirección.
-6. El marketing orgánico se multiplica cuando tienes claridad.
-7. Crear productos digitales rápidos es el juego del 2026.
-8. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
-9. Crear y vender productos digitales rápido es una habilidad entrenable.
-10. La IA + prompts de oro = ventaja competitiva real.
-11. Escalar un producto digital empieza por optimizar lo que ya funciona.
-12. Los prompts de oro te dan claridad cuando otros solo tienen confusión.
-13. Los mejores vendedores digitales no improvisan, usan prompts probados.
-14. Una idea validada + prompts de oro = producto listo para generar ingresos.
-15. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
-16. Una buena página de ventas vende mientras tú duermes.
-17. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
-18. El copy persuasivo es una habilidad que se puede potenciar con IA.
-19. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
-20. La velocidad de lanzamiento es una de las mayores ventajas competitivas.
-21. Optimizar después de tener ventas es la estrategia ganadora.
-22. Crear, empaquetar y vender en el mismo día es posible con el sistema correcto.
-23. Los que lanzan rápido aprenden más rápido y ganan más rápido.
-24. Optimizar y escalar es el resultado natural de lanzar y aprender.
-25. La ventaja competitiva está en la velocidad de ejecución.
-26. Los que usan sistemas de prompts ganan tiempo y dinero.
-27. Vender productos digitales rápido es posible cuando tienes el mapa.
-28. Una checklist de 24 horas te obliga a enfocarte.
-29. Los prompts de oro eliminan el bloqueo creativo al instante.
-30. Los prompts de oro son el atajo legítimo hacia las ventas rápidas.
+1. La IA + prompts de oro = ventaja competitiva real.
+2. Una idea validada + prompts de oro = producto listo para generar ingresos.
+3. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
+4. Vender productos digitales rápido es posible cuando tienes el mapa.
+5. El marketing orgánico funciona mejor cuando es intencional.
+6. Un sistema de prompts te da consistencia cuando la motivación falla.
+7. Validar una idea digital ya no toma meses: con los prompts adecuados toma minutos.
+8. Los que lanzan rápido aprenden más rápido y ganan más rápido.
+9. Vender productos digitales rápido es cuestión de método, no de suerte.
+10. Crear productos digitales rápidos es el juego del 2026.
+11. Una idea + 50 prompts de oro = producto listo para el mercado.
+12. Un checklist de 24 horas elimina las excusas.
+13. Escalar empieza por dominar el proceso de creación y venta rápida.
+14. El verdadero poder de la IA está en los prompts diseñados para vender.
+15. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
+16. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
+17. Optimizar después de tener ventas es la estrategia ganadora.
+18. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
+19. Los mejores resultados llegan cuando combinas velocidad con método.
+20. El verdadero cuello de botella ya no es crear, es saber qué pedir.
+21. Los prompts de oro convierten la intención en resultados.
+22. Una buena página de ventas vende mientras tú duermes.
+23. Escalar un producto digital empieza por optimizar lo que ya funciona.
+24. Cada día que no lanzas es un día que alguien más puede adelantarte.
+25. Una buena validación de idea evita meses de trabajo inútil.
+26. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
+27. Una página de ventas escrita con prompts de oro convierte mejor.
+28. Optimizar después de lanzar es más inteligente que perfeccionar eternamente.
+29. Deja de consumir y empieza a producir productos que se venden.
+30. Los prompts de oro convierten la teoría en acción inmediata.
 
 <!-- DAILY_END -->
 
