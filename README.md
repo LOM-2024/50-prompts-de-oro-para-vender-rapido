@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-13
+### 2026-11-14
 
-1. Una checklist de 24 horas te obliga a enfocarte.
-2. Optimizar después de tener ventas es la estrategia ganadora.
-3. Investigar el mercado ya no es aburrido ni lento con los prompts correctos.
-4. Crear y vender en el mismo ciclo es la nueva normalidad.
-5. Cada día que no lanzas es un día que alguien más puede adelantarte.
-6. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
-7. La velocidad de lanzamiento es una de las mayores ventajas competitivas.
-8. Validar ideas rápido te mantiene en movimiento.
-9. El marketing orgánico deja de ser un misterio con los prompts correctos.
-10. La velocidad sin dirección es caos; los prompts dan la dirección.
-11. El copy persuasivo ya no depende de inspiración, depende de buenos prompts.
-12. Validar ideas antes de construir es la forma más inteligente de trabajar.
-13. El marketing orgánico funciona mejor cuando es intencional.
-14. Los que usan prompts de oro avanzan mientras otros siguen investigando.
-15. Deja de esperar el momento perfecto. El momento es ahora.
-16. Un prompt bien diseñado vale más que 10 horas de escritura manual.
-17. La ventaja competitiva está en la velocidad de ejecución.
-18. Una buena validación de idea evita meses de trabajo inútil.
-19. Los que lanzan rápido aprenden más rápido y ganan más rápido.
-20. Vender productos digitales rápido es posible cuando tienes el mapa.
-21. Los prompts de oro eliminan la parálisis por análisis.
-22. El copy que genera deseo se puede crear sistemáticamente.
-23. Los prompts correctos convierten ideas en productos vendibles en horas, no en semanas.
-24. El copy persuasivo es una habilidad que se puede potenciar con IA.
-25. El verdadero poder de la IA está en los prompts diseñados para vender.
-26. El verdadero cuello de botella ya no es crear, es saber qué pedir.
-27. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
-28. Cada prompt de oro te acerca más a tu primera (o próxima) venta.
-29. Los mejores resultados llegan cuando combinas velocidad con método.
-30. Crear, empaquetar y vender en el mismo día es posible con el sistema correcto.
+1. Deja de consumir contenido y empieza a crear productos que se venden solos.
+2. Una idea + 50 prompts de oro = producto listo para el mercado.
+3. Escalar un producto digital empieza por optimizar lo que ya funciona.
+4. Deja de esperar el momento perfecto. El momento es ahora.
+5. La velocidad de lanzamiento es una de las mayores ventajas competitivas.
+6. Lanzar imperfecto es mejor que no lanzar nunca.
+7. Vender más rápido empieza por decidir lanzar hoy.
+8. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
+9. Una buena validación de idea evita meses de trabajo inútil.
+10. Crear productos digitales rápidos es el nuevo superpoder del 2026.
+11. Crear y vender en el mismo ciclo es la nueva normalidad.
+12. Los prompts de oro eliminan el bloqueo creativo al instante.
+13. Optimizar después de tener ventas es la estrategia ganadora.
+14. Los prompts de oro convierten la intención en resultados.
+15. El marketing orgánico deja de ser lento cuando tienes los prompts correctos.
+16. El marketing orgánico funciona mejor cuando es sistemático.
+17. Validar una idea digital ya no toma meses: con los prompts adecuados toma minutos.
+18. Crear productos digitales ya no es exclusivo de los “expertos”.
+19. Los prompts de oro te dan claridad cuando otros solo tienen confusión.
+20. Los que actúan con prompts de oro avanzan más rápido.
+21. El verdadero cuello de botella ya no es crear, es saber qué pedir.
+22. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
+23. Lanza hoy. Optimiza mañana. Escala después.
+24. Una idea validada + prompts de oro = producto listo para generar ingresos.
+25. Vender más rápido empieza por crear más rápido.
+26. Deja de consumir y empieza a producir productos que se venden.
+27. La IA + prompts de oro = ventaja competitiva real.
+28. Crear productos digitales rápidos es el juego del 2026.
+29. Validar ideas antes de construir es la forma más inteligente de trabajar.
+30. Cada prompt de oro te ahorra horas de prueba y error.
 
 <!-- DAILY_END -->
 
