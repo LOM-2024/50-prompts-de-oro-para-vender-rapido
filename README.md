@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-16
+### 2026-11-17
 
-1. Una buena validación de idea evita meses de trabajo inútil.
-2. Crear, empaquetar y vender en el mismo día es posible con el sistema correcto.
-3. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
-4. Investigar el mercado ya no es aburrido ni lento con los prompts correctos.
-5. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
-6. Validar ideas rápido te ahorra tiempo, dinero y frustración.
-7. Crear productos digitales ya no es exclusivo de los “expertos”.
-8. Cada día sin lanzar es una oportunidad perdida.
-9. Los prompts de oro son el atajo legítimo hacia las ventas rápidas.
-10. Validar ideas antes de construir es la forma más inteligente de trabajar.
-11. Crear productos digitales rápidos es el nuevo superpoder del 2026.
-12. Optimizar después de tener ventas es la estrategia ganadora.
-13. El copy que genera deseo se puede crear sistemáticamente.
-14. El copy persuasivo es el puente entre el producto y la venta.
-15. La velocidad sin dirección es caos; los prompts dan la dirección.
-16. El mercado premia a quien llega primero con una solución decente.
-17. Vender más rápido empieza por decidir lanzar hoy.
-18. Escalar un producto digital es más fácil cuando ya tienes tracción.
-19. Lanzar imperfecto te da la información que necesitas para mejorar.
-20. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
-21. La IA potencia a quien sabe usarla con prompts precisos.
-22. Los mejores vendedores digitales no improvisan, usan prompts probados.
-23. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
-24. La ventaja competitiva está en la velocidad de ejecución.
-25. El marketing orgánico funciona mejor cuando es sistemático.
-26. Vender productos digitales rápido es posible cuando tienes el mapa.
-27. El marketing orgánico deja de ser un misterio con los prompts correctos.
-28. Crear y vender productos digitales rápido es una habilidad entrenable.
-29. Cada prompt de oro te ahorra horas de prueba y error.
-30. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
+1. Escalar empieza por tener un producto que ya genera las primeras ventas.
+2. Cada prompt de oro te ahorra horas de prueba y error.
+3. Una idea validada es más valiosa que 10 ideas sin probar.
+4. Optimizar y escalar es el premio por haber lanzado.
+5. Cada día que no lanzas es un día que alguien más puede adelantarte.
+6. Una buena página de ventas vende mientras tú duermes.
+7. Los mejores resultados llegan cuando combinas velocidad con método.
+8. Vender más rápido empieza por crear más rápido.
+9. Crear productos digitales rápidos es el nuevo superpoder del 2026.
+10. Una idea + 50 prompts de oro = producto listo para el mercado.
+11. La ventaja competitiva está en la velocidad de ejecución.
+12. Los mejores vendedores digitales no improvisan, usan prompts probados.
+13. Cada día sin lanzar es una oportunidad perdida.
+14. Un checklist de 24 horas elimina las excusas.
+15. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
+16. Los prompts de oro eliminan el bloqueo creativo al instante.
+17. El verdadero poder de la IA está en los prompts diseñados para vender.
+18. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
+19. Crear productos digitales rápidos es el juego del 2026.
+20. Validar ideas rápido te mantiene en movimiento.
+21. Lanzar imperfecto es mejor que no lanzar nunca.
+22. Un sistema de prompts te da consistencia cuando la motivación falla.
+23. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
+24. Vender más rápido empieza por decidir lanzar hoy.
+25. Crear, empaquetar y vender en el mismo día es posible con el sistema correcto.
+26. Una checklist de 24 horas te obliga a enfocarte.
+27. Los prompts correctos convierten ideas en productos vendibles en horas, no en semanas.
+28. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
+29. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
+30. Crear productos digitales ya no es exclusivo de los “expertos”.
 
 <!-- DAILY_END -->
 
