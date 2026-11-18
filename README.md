@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-17
+### 2026-11-18
 
-1. Escalar empieza por tener un producto que ya genera las primeras ventas.
-2. Cada prompt de oro te ahorra horas de prueba y error.
-3. Una idea validada es más valiosa que 10 ideas sin probar.
-4. Optimizar y escalar es el premio por haber lanzado.
-5. Cada día que no lanzas es un día que alguien más puede adelantarte.
-6. Una buena página de ventas vende mientras tú duermes.
-7. Los mejores resultados llegan cuando combinas velocidad con método.
-8. Vender más rápido empieza por crear más rápido.
-9. Crear productos digitales rápidos es el nuevo superpoder del 2026.
-10. Una idea + 50 prompts de oro = producto listo para el mercado.
-11. La ventaja competitiva está en la velocidad de ejecución.
-12. Los mejores vendedores digitales no improvisan, usan prompts probados.
-13. Cada día sin lanzar es una oportunidad perdida.
-14. Un checklist de 24 horas elimina las excusas.
-15. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
-16. Los prompts de oro eliminan el bloqueo creativo al instante.
-17. El verdadero poder de la IA está en los prompts diseñados para vender.
-18. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
-19. Crear productos digitales rápidos es el juego del 2026.
-20. Validar ideas rápido te mantiene en movimiento.
-21. Lanzar imperfecto es mejor que no lanzar nunca.
-22. Un sistema de prompts te da consistencia cuando la motivación falla.
-23. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
-24. Vender más rápido empieza por decidir lanzar hoy.
-25. Crear, empaquetar y vender en el mismo día es posible con el sistema correcto.
-26. Una checklist de 24 horas te obliga a enfocarte.
-27. Los prompts correctos convierten ideas en productos vendibles en horas, no en semanas.
-28. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
-29. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
-30. Crear productos digitales ya no es exclusivo de los “expertos”.
+1. El verdadero poder de la IA está en los prompts diseñados para vender.
+2. Una página de ventas escrita con prompts de oro convierte mejor.
+3. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
+4. Crear productos digitales rápidos es el nuevo superpoder del 2026.
+5. Los prompts de oro convierten la intención en resultados.
+6. Optimizar después de lanzar es más inteligente que perfeccionar eternamente.
+7. La IA no vende por ti, pero los prompts correctos sí te ayudan a vender.
+8. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
+9. Lanzar en 24 horas te da feedback real del mercado.
+10. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
+11. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
+12. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
+13. Los mejores vendedores digitales no improvisan, usan prompts probados.
+14. El copy que convierte se puede generar sistemáticamente.
+15. Los prompts de oro eliminan la parálisis por análisis.
+16. Optimizar después de tener ventas es la estrategia ganadora.
+17. Los que usan prompts de oro avanzan mientras otros siguen investigando.
+18. Cada día sin lanzar es una oportunidad perdida.
+19. Escalar un producto digital es más fácil cuando ya tienes tracción.
+20. Lanzar imperfecto es mejor que no lanzar nunca.
+21. Un sistema de prompts te da consistencia cuando la motivación falla.
+22. Vender productos digitales se vuelve predecible con el sistema correcto.
+23. Un prompt bien hecho puede valer más que un curso completo.
+24. Crear y vender en el mismo ciclo es la nueva normalidad.
+25. Validar ideas antes de construir es la forma más inteligente de trabajar.
+26. Vender productos digitales rápido es cuestión de método, no de suerte.
+27. Deja de consumir y empieza a producir productos que se venden.
+28. Deja de consumir contenido y empieza a crear productos que se venden solos.
+29. El marketing orgánico funciona mejor cuando es sistemático.
+30. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
 
 <!-- DAILY_END -->
 
