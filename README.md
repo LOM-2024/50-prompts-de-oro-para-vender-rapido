@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-20
+### 2026-11-21
 
-1. Los prompts correctos convierten ideas en productos vendibles en horas, no en semanas.
-2. Optimizar y escalar es el premio por haber lanzado.
-3. Deja de consumir contenido y empieza a crear productos que se venden solos.
-4. Una idea + 50 prompts de oro = producto listo para el mercado.
-5. Crear y vender en el mismo ciclo es la nueva normalidad.
-6. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
-7. Un sistema de prompts te da consistencia cuando la motivación falla.
-8. Validar una idea digital ya no toma meses: con los prompts adecuados toma minutos.
-9. Vender productos digitales se vuelve predecible con el sistema correcto.
-10. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
-11. Deja de esperar el momento perfecto. El momento es ahora.
-12. Una buena página de ventas vende mientras tú duermes.
-13. El copy persuasivo ya no depende de inspiración, depende de buenos prompts.
-14. Los 50 prompts de oro son el atajo que muchos están buscando.
-15. Un prompt bien diseñado vale más que 10 horas de escritura manual.
-16. El copy que genera deseo se puede crear sistemáticamente.
-17. Un prompt bien hecho puede valer más que un curso completo.
-18. Crear productos digitales ya no es exclusivo de los “expertos”.
-19. La IA + prompts de oro = ventaja competitiva real.
-20. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
-21. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
-22. Optimizar después de lanzar es más inteligente que perfeccionar eternamente.
-23. Una idea validada es más valiosa que 10 ideas sin probar.
-24. Lanzar imperfecto es mejor que no lanzar nunca.
-25. La ventaja competitiva está en la velocidad de ejecución.
-26. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
-27. El mercado no espera a que termines de perfeccionar.
-28. Vender productos digitales rápido es cuestión de método, no de suerte.
-29. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
-30. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
+1. Validar una idea digital ya no toma meses: con los prompts adecuados toma minutos.
+2. Vender más rápido empieza por decidir lanzar hoy.
+3. Vender productos digitales rápido es cuestión de método, no de suerte.
+4. El marketing orgánico deja de ser lento cuando tienes los prompts correctos.
+5. Escalar empieza por tener un producto que ya genera las primeras ventas.
+6. Los que usan prompts de oro avanzan mientras otros siguen investigando.
+7. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
+8. Lanzar imperfecto te da la información que necesitas para mejorar.
+9. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
+10. La IA potencia a quien sabe usarla con prompts precisos.
+11. Optimizar después de lanzar es más inteligente que perfeccionar eternamente.
+12. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
+13. La IA no vende por ti, pero los prompts correctos sí te ayudan a vender.
+14. Los prompts de oro convierten la teoría en acción inmediata.
+15. Cada día que no lanzas es un día que alguien más puede adelantarte.
+16. Los mejores productos digitales nacen de prompts bien pensados.
+17. El verdadero poder de la IA está en los prompts diseñados para vender.
+18. Una idea + 50 prompts de oro = producto listo para el mercado.
+19. El marketing orgánico funciona mejor cuando es sistemático.
+20. La velocidad sin dirección es caos; los prompts dan la dirección.
+21. Cada prompt de oro te ahorra horas de prueba y error.
+22. Crear el producto completo ya no tiene que tomar semanas.
+23. Crear el producto completo es solo el primer paso; venderlo rápido es el verdadero juego.
+24. Un sistema de prompts te da consistencia cuando la motivación falla.
+25. Optimizar y escalar es el resultado natural de lanzar y aprender.
+26. Deja de consumir y empieza a producir productos que se venden.
+27. Crear productos digitales ya no es exclusivo de los “expertos”.
+28. Validar ideas rápido te mantiene en movimiento.
+29. El copy persuasivo es el puente entre el producto y la venta.
+30. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
 
 <!-- DAILY_END -->
 
