@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-22
+### 2026-11-23
 
-1. El copy persuasivo es el puente entre el producto y la venta.
-2. Optimizar después de lanzar es más inteligente que perfeccionar eternamente.
-3. Los que usan prompts de oro avanzan mientras otros siguen investigando.
-4. Crear productos digitales ya no requiere ser programador ni diseñador.
-5. Optimizar y escalar es el premio por haber lanzado.
-6. Validar ideas rápido te mantiene en movimiento.
-7. Validar ideas antes de construir es la forma más inteligente de trabajar.
-8. Optimizar después de tener ventas es la estrategia ganadora.
-9. Vender productos digitales se vuelve predecible con el sistema correcto.
-10. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
-11. Los que lanzan rápido aprenden más rápido y ganan más rápido.
-12. Validar una idea digital ya no toma meses: con los prompts adecuados toma minutos.
-13. Cada prompt de oro te ahorra horas de prueba y error.
-14. Una idea validada es más valiosa que 10 ideas sin probar.
-15. Un checklist de 24 horas elimina las excusas.
-16. El copy persuasivo ya no depende de inspiración, depende de buenos prompts.
-17. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
-18. El mercado premia a quien llega primero con una solución decente.
-19. El marketing orgánico deja de ser un misterio con los prompts correctos.
-20. Los que actúan con prompts de oro avanzan más rápido.
-21. Una página de ventas escrita con prompts de oro convierte mejor.
-22. Vender productos digitales rápido es cuestión de método, no de suerte.
-23. El copy que convierte se puede generar sistemáticamente.
-24. El marketing orgánico se multiplica cuando tienes claridad.
-25. Escalar empieza por tener un producto que ya genera las primeras ventas.
-26. Deja de consumir y empieza a producir productos que se venden.
-27. Lanzar imperfecto te da la información que necesitas para mejorar.
-28. El marketing orgánico funciona mejor cuando es sistemático.
-29. Los mejores productos digitales nacen de prompts bien pensados.
-30. Escalar un producto digital es más fácil cuando ya tienes tracción.
+1. Crear productos digitales ya no requiere ser programador ni diseñador.
+2. Crear el producto completo ya no tiene que tomar semanas.
+3. Un sistema de prompts te da consistencia cuando la motivación falla.
+4. Un prompt bien diseñado vale más que 10 horas de escritura manual.
+5. Los mejores vendedores digitales no improvisan, usan prompts probados.
+6. Un checklist de 24 horas te obliga a enfocarte en lo esencial.
+7. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
+8. Los prompts de oro convierten la intención en resultados.
+9. La velocidad sin dirección es caos; los prompts dan la dirección.
+10. Deja de consumir contenido y empieza a crear productos que se venden solos.
+11. Deja de esperar el momento perfecto. El momento es ahora.
+12. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
+13. Escalar empieza por dominar el proceso de creación y venta rápida.
+14. El marketing orgánico funciona mejor cuando es sistemático.
+15. Lanzar imperfecto te da la información que necesitas para mejorar.
+16. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
+17. Los que actúan con prompts de oro avanzan más rápido.
+18. El verdadero cuello de botella ya no es crear, es saber qué pedir.
+19. Lanzar en 24 horas te da feedback real del mercado.
+20. La IA no vende por ti, pero los prompts correctos sí te ayudan a vender.
+21. Los prompts correctos convierten ideas en productos vendibles en horas, no en semanas.
+22. Los prompts de oro eliminan la parálisis por análisis.
+23. Escalar empieza por tener un producto que ya genera las primeras ventas.
+24. Crear productos digitales rápidos es el nuevo superpoder del 2026.
+25. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
+26. Crear productos digitales rápidos es una habilidad que se puede sistematizar.
+27. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
+28. Optimizar después de lanzar es más inteligente que perfeccionar eternamente.
+29. Cada prompt de oro te ahorra horas de prueba y error.
+30. La diferencia entre quien lanza y quien solo piensa está en los prompts que usa.
 
 <!-- DAILY_END -->
 
