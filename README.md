@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-24
+### 2026-11-25
 
-1. Los prompts de oro convierten la intención en resultados.
-2. El mercado no espera a que termines de perfeccionar.
-3. Los prompts de oro eliminan el bloqueo creativo al instante.
-4. Validar ideas antes de construir es la forma más inteligente de trabajar.
-5. Vender productos digitales rápido es posible cuando tienes el mapa.
-6. El copy persuasivo es una habilidad que se puede potenciar con IA.
-7. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
-8. Deja de esperar el momento perfecto. El momento es ahora.
-9. La IA potencia a quien sabe usarla con prompts precisos.
-10. Escalar un producto digital empieza por optimizar lo que ya funciona.
-11. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
-12. Lanzar en 24 horas te da feedback real del mercado.
-13. Crear productos digitales ya no es exclusivo de los “expertos”.
-14. Un checklist de 24 horas elimina las excusas.
-15. Cada prompt de oro te ahorra horas de prueba y error.
-16. El mercado premia a quien llega primero con una solución decente.
-17. Escalar empieza por tener un producto que ya genera las primeras ventas.
-18. Crear productos digitales rápidos es el juego del 2026.
-19. Un sistema de prompts te da consistencia cuando la motivación falla.
-20. El marketing orgánico funciona mejor cuando es intencional.
-21. Crear, empaquetar y vender en el mismo día es posible con el sistema correcto.
-22. El marketing orgánico se vuelve predecible con el sistema correcto.
-23. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
-24. Deja de consumir y empieza a producir productos que se venden.
-25. Optimizar y escalar es el resultado natural de lanzar y aprender.
-26. El marketing orgánico funciona mejor cuando es sistemático.
-27. Una buena página de ventas vende mientras tú duermes.
-28. Los que usan prompts de oro avanzan mientras otros siguen investigando.
-29. Crear productos digitales rápidos es una habilidad que se puede sistematizar.
-30. Los prompts de oro convierten la teoría en acción inmediata.
+1. El mercado no espera a que termines de perfeccionar.
+2. Una página de ventas escrita con prompts de oro convierte mejor.
+3. La velocidad de lanzamiento es una de las mayores ventajas competitivas.
+4. Validar ideas rápido te mantiene en movimiento.
+5. El verdadero poder de la IA está en los prompts diseñados para vender.
+6. Vender productos digitales rápido es cuestión de método, no de suerte.
+7. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
+8. Una checklist de 24 horas te obliga a enfocarte.
+9. Lanzar un producto digital en 24 horas ya no es un sueño: es un sistema.
+10. El marketing orgánico funciona mejor cuando es sistemático.
+11. Deja de consumir contenido y empieza a crear productos que se venden solos.
+12. El mercado premia a quien llega primero con una solución decente.
+13. Un prompt bien hecho puede valer más que un curso completo.
+14. El marketing orgánico se acelera cuando sabes exactamente qué pedir.
+15. Una idea validada es más valiosa que 10 ideas sin probar.
+16. El copy persuasivo es una habilidad que se puede potenciar con IA.
+17. La diferencia entre quien lanza y quien solo piensa está en los prompts que usa.
+18. Optimizar y escalar es el resultado natural de lanzar y aprender.
+19. Optimizar y escalar es el premio por haber lanzado.
+20. Escalar un producto digital es más fácil cuando ya tienes tracción.
+21. Los que usan sistemas de prompts ganan tiempo y dinero.
+22. Un prompt bien diseñado vale más que 10 horas de escritura manual.
+23. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
+24. Lanzar imperfecto te da la información que necesitas para mejorar.
+25. Una buena validación de idea evita meses de trabajo inútil.
+26. La IA no vende por ti, pero los prompts correctos sí te ayudan a vender.
+27. Un checklist de 24 horas + 50 prompts de oro = ventaja injusta.
+28. Una página de ventas clara vende más que un producto perfecto pero invisible.
+29. Deja de esperar el momento perfecto. El momento es ahora.
+30. Crear productos digitales rápidos es el nuevo superpoder del 2026.
 
 <!-- DAILY_END -->
 
