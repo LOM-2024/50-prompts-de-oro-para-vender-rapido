@@ -39,38 +39,38 @@ Los prompts están organizados en **5 bloques estratégicos**:
 ## Frases del día
 
 <!-- DAILY_START -->
-### 2026-11-26
+### 2026-11-27
 
-1. Crear productos digitales ya no es exclusivo de los “expertos”.
-2. Lanzar en 24 horas te da feedback real del mercado.
-3. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
-4. El verdadero poder de la IA está en los prompts diseñados para vender.
-5. La IA potencia a quien sabe usarla con prompts precisos.
-6. Validar ideas rápido te mantiene en movimiento.
-7. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
-8. Un prompt bien diseñado vale más que 10 horas de escritura manual.
-9. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
-10. El marketing orgánico funciona mejor cuando es intencional.
-11. Un prompt bien hecho puede valer más que un curso completo.
-12. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
-13. El copy persuasivo ya no depende de inspiración, depende de buenos prompts.
-14. La ventaja competitiva está en la velocidad de ejecución.
-15. La IA + prompts de oro = ventaja competitiva real.
-16. El mercado no espera a que termines de perfeccionar.
-17. Los prompts de oro eliminan la parálisis por análisis.
-18. Los mejores vendedores digitales no improvisan, usan prompts probados.
-19. La velocidad de lanzamiento es una de las mayores ventajas competitivas.
-20. Los que usan prompts de oro avanzan mientras otros siguen investigando.
-21. Los prompts de oro convierten la teoría en acción inmediata.
-22. La velocidad sin dirección es caos; los prompts dan la dirección.
-23. El marketing orgánico deja de ser lento cuando tienes los prompts correctos.
-24. Escalar un producto digital es más fácil cuando ya tienes tracción.
-25. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
-26. Crear productos digitales rápidos es una habilidad que se puede sistematizar.
-27. Una buena página de ventas vende mientras tú duermes.
-28. Crear, empaquetar y vender en el mismo día es posible con el sistema correcto.
-29. Validar una idea digital ya no toma meses: con los prompts adecuados toma minutos.
-30. Los mejores productos digitales nacen de prompts bien pensados.
+1. Validar ideas rápido te mantiene en movimiento.
+2. La diferencia entre quien lanza y quien solo piensa está en los prompts que usa.
+3. Crear el producto completo ya no tiene que tomar semanas.
+4. Los prompts de oro te dan claridad cuando otros solo tienen confusión.
+5. Deja de planear el plan perfecto y lanza con lo que tienes hoy.
+6. Un checklist de 24 horas elimina las excusas.
+7. Los prompts de oro son el atajo legítimo hacia las ventas rápidas.
+8. Cada día sin lanzar es una oportunidad perdida.
+9. Crear productos digitales rápidos es el nuevo superpoder del 2026.
+10. Crear productos digitales ya no requiere ser programador ni diseñador.
+11. El copy persuasivo es el puente entre el producto y la venta.
+12. Deja de reinventar la rueda: usa prompts que ya saben cómo vender.
+13. El copy persuasivo es una habilidad que se puede potenciar con IA.
+14. Optimizar y escalar un producto digital empieza el mismo día que lo lanzas.
+15. Cada día que no lanzas es un día que alguien más puede adelantarte.
+16. Los prompts de oro convierten la intención en resultados.
+17. Vender más rápido empieza por decidir lanzar hoy.
+18. Una página de ventas persuasiva se escribe en minutos cuando usas los prompts de oro.
+19. Una checklist de 24 horas te obliga a enfocarte.
+20. Vender productos digitales se vuelve predecible con el sistema correcto.
+21. El marketing orgánico deja de ser lento cuando tienes los prompts correctos.
+22. Crear productos digitales ya no es exclusivo de los “expertos”.
+23. Los mejores productos digitales nacen de prompts bien pensados.
+24. Optimizar después de lanzar es más inteligente que perfeccionar eternamente.
+25. Vender productos digitales rápido es posible cuando tienes el mapa.
+26. Vender productos digitales rápido es cuestión de método, no de suerte.
+27. Los 50 prompts de oro son el atajo que muchos están buscando.
+28. Los prompts de oro te dan estructura cuando otros solo tienen ideas sueltas.
+29. La velocidad de lanzamiento separa a los que ganan de los que solo sueñan.
+30. Un prompt bien diseñado vale más que 10 horas de escritura manual.
 
 <!-- DAILY_END -->
 
